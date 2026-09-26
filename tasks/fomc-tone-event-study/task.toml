@@ -3,8 +3,8 @@
 version = "1.0"
 
 [metadata]
-author_name = "gem_mint"
-author_email = "rluac@connect.ust.hk"
+author_name = "Anonymous"
+author_email = "anonymous@example.com"
 difficulty = "medium"
 category = "fixed-income-nlp"
 tags = ["nlp", "event-study", "fixed-income", "fomc", "ols-regression", "pandas"]

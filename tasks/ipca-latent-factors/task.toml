@@ -3,7 +3,7 @@
 version = "1.0"
 
 [metadata]
-author_name = "QuantitativeFinance-Bench Team"
+author_name = "Anonymous"
 difficulty = "hard"
 category = "cross-domain"
 tags = ["ipca", "latent-factors", "alternating-least-squares", "characteristics", "factor-mimicking", "grs-test"]

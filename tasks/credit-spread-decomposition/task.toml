@@ -4,8 +4,8 @@
 version = "1.0"
 
 [metadata]
-author_name = "Wenqi Shi"
-author_email = "wenqi.shi@emory.edu"
+author_name = "Anonymous"
+author_email = "anonymous@example.com"
 difficulty = "medium"
 category = "credit-analysis"
 tags = ["python", "pandas", "numpy", "ols-regression", "credit-spreads", "macro-finance", "rolling-regression", "regime-detection", "newey-west", "hac-inference", "variance-decomposition"]

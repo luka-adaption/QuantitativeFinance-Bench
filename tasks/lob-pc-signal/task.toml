@@ -3,7 +3,7 @@
 version = "1.0"
 
 [metadata]
-author_name = "QuantitativeFinance-Bench Team"
+author_name = "Anonymous"
 difficulty = "medium"
 category = "predictive-alpha-modeling"
 tags = ["order-book", 'principal-component-analysis', 'time-series-analysis']

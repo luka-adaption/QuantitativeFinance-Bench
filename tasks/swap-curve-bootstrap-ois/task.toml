@@ -3,8 +3,8 @@
 version = "1.0"
 
 [metadata]
-author_name = "Youting Wang"
-author_email = "ginkoin613@gmail.com"
+author_name = "Anonymous"
+author_email = "anonymous@example.com"
 difficulty = "medium"
 category = "fixed-income"
 tags = ["python", "pandas", "numpy", "scipy", "bootstrap", "swap-curve", "ois", "libor", "dual-curve", "irs", "fixed-income"]

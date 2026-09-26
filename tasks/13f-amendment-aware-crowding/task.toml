@@ -3,8 +3,8 @@
 version = "1.0"
 
 [metadata]
-author_name = "QuantitativeFinance-Bench Team"
-author_email = ""
+author_name = "Anonymous"
+author_email = "anonymous@example.com"
 difficulty = "medium"
 category = "cross-domain"
 tags = ["python", "pandas", "sec-13f", "regulatory-filings", "amendment-resolution", "holdings", "turnover", "overlap", "crowding", "data-cleaning"]

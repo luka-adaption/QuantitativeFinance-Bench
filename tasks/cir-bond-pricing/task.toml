@@ -4,8 +4,8 @@
 version = "1.0"
 
 [metadata]
-author_name = "QuantitativeFinance-Bench Team"
-author_email = ""
+author_name = "Anonymous"
+author_email = "anonymous@example.com"
 difficulty = "hard"
 category = "fixed-income"
 tags = ["python", "numpy", "scipy", "CIR", "short-rate", "bond-pricing", "yield-curve", "Ricatti", "calibration", "MLE"]

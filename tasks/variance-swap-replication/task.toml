@@ -3,8 +3,8 @@
 version = "1.0"
 
 [metadata]
-author_name = "QuantitativeFinance-Bench Team"
-author_email = ""
+author_name = "Anonymous"
+author_email = "anonymous@example.com"
 difficulty = "medium"
 category = "derivatives-pricing"
 tags = ["python", "numpy", "pandas", "scipy", "variance-swap", "log-contract", "replication", "carr-madan", "demeterfi", "option-chain", "bid-ask", "liquidity-filter", "iv-inversion", "trapezoidal-integration"]

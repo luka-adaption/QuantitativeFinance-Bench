@@ -3,8 +3,8 @@
 version = "1.0"
 
 [metadata]
-author_name = "QuantitativeFinance-Bench Team"
-author_email = "pangjacque@gmail.com"
+author_name = "Anonymous"
+author_email = "anonymous@example.com"
 difficulty = "medium"
 category = "credit-risk"
 tags = ["python", "numpy", "pandas", "credit-risk", "migration-matrix", "transition-probabilities", "default-rates", "markov-chain", "chi-squared", "generator-matrix"]

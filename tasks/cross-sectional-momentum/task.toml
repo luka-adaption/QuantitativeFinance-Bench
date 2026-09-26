@@ -3,8 +3,8 @@
 version = "1.0"
 
 [metadata]
-author_name = "Darren Carbox"
-author_email = ""
+author_name = "Anonymous"
+author_email = "anonymous@example.com"
 difficulty = "hard"
 category = "cross-sectional-strategies"
 tags = ["python", "csv", "backtesting", "momentum", "cross-sectional", "long-short", "portfolio-construction", "data-cleaning"]
